@@ -85,7 +85,7 @@
 ![parent.h](/parent.h.jpg)
 #### child.h
 ![child.h](/child.h.jpg)
-#### parent.h
+#### relasi.h
 ![relasi.h](/relasi.h.jpg)
 #### aplikasi.h
 ![aplikasi.h](/aplikasi.h.jpg)
