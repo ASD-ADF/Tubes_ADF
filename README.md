@@ -79,3 +79,15 @@
 	- menghapus data jika ID ditemukan (dealokasi)
  13. <b>[10 POIN]</b> Urutkan Data Relasi
 	- mengurutkan data relasi berdasarkan ID parent
+
+### Contoh lihat di Tubes2016_2.rar
+#### parent.h
+![parent.h](/parent.h.jpg)
+#### child.h
+![child.h](/child.h.jpg)
+#### parent.h
+![relasi.h](/relasi.h.jpg)
+#### aplikasi.h
+![aplikasi.h](/aplikasi.h.jpg)
+#### aplikasi.cpp
+![aplikasi.cpp](/aplikasi.cpp.jpg)
